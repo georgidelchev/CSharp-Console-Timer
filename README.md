@@ -1,2 +1,2 @@
 # CSharp-Console-Timer
-Timer With Array.
+Timer made up by using arrays.
